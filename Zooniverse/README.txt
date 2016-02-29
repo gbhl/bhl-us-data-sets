@@ -1,4 +1,4 @@
-BACKGROUND
+﻿BACKGROUND
 
 These data files are the output of Science Gossip ( http://www.sciencegossip.org/ ), 
 which is collaboration between Zooniverse ( https://www.zooniverse.org/ ) and the 
@@ -51,7 +51,7 @@ single page in a book.  Some types of classifications are keywords, inscriptions
 species names, and illustration types.  So, for example, a single row in a data file 
 may contain a list of species names that appear on a page.
 
-Each row in a data file contains seven columns.  The first row in each file contains 
+Each row in a data file contains ten columns.  The first row in each file contains 
 the column names.  See the following section in this file for information about the 
 data found in each column.  
 
@@ -68,6 +68,13 @@ Classification count - The number of Zooniverse users that have classified the p
 Page ID - Identifier of the page in BHL.  Use the following URL to view the page in BHL:
 	http://www.biodiversitylibrary.org/page/1000, where 1000 is the BHL page 
 	identifier.
+
+Volume - Volume number for the page.  May include other information.  For example,
+	a value of "v. 4 1842" includes the volume "4" and year "1842".
+
+Page - Pagination information for the page.  For example, "Page 1", "Plate VI".
+
+Year - Year of publication for the page.
 
 Image scale - A value that indicates the amount that the original BHL source image 
 	was scaled for use in Zooniverse.  To convert the coordinate values (see the Coords 
