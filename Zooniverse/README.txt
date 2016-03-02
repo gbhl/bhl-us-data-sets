@@ -155,3 +155,15 @@ Value - Value of the classification.  Typically, this is a structured list of va
 	Value: {"common"=>["December Moth", "moth", "Butterfly"], "scientific"=>["Pacilocampa Populi", "Paecilocampa Populi", "", "Poecilocampa Populi"]}
 	Explanation: The Value field contains three "common" names for the species, and 
 		four "scientific" names for the species (one is blank).
+
+
+IMPORTANT NOTE
+
+Two of the data sets (GSC0000007-45236.csv and GSC000000a-51125.csv) contain incorrect 
+Page ID values.  The files GSC0000007-45236-CORRECTED.csv and 
+GSC000000a-51125-CORRECTED.csv map the Zooniverse IDs in those data sets to the correct 
+Page ID values.
+
+For example, the rows in the file GSC0000007-45236.csv with Zooniverse ID ASC0000y54 have
+Page ID 12536652.  That Page ID is incorrect.  GSC0000007-45236-CORRECTED.csv contains
+a row for Zooniverse ID ASC0000y54 with Page ID 12536653, which is the correct value.
