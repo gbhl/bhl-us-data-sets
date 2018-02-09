@@ -1,0 +1,35 @@
+176 ILLINOIS ACADEMY OF SCIENCE 
+equations for a bent as a whole as there are unknowns and 
+the unknowns can be determined. 
+V. CONCLUSIONS 
+The number of equations involved in the slope-deflection 
+method is so great that the method can not be used 
+in designing buildings. The method, however, was used 
+by the writer and Mr. Maney to determine the stresses 
+in a number of typical bents, after which the stresses were 
+also determined in the same bents by the four approximate 
+methods described above. As a result of these calculations 
+it was found that for bents for which all columns of a story 
+have the same section Method I and Method IV are accurate 
+enough for the purpose of design. 
+HEAT TRANSMISSION OF SIMPLE AND COM- 
+POUND WALLS, WITH SPECIAL REFERENCE 
+TO BUILDING CONSTRUCTION 
+ABSTRACT 
+ARTHUR C. WILLARD, UNIVERSITY OF ILLINOIS 
+1. Consideration of the theory involved in the transmis- 
+sion of heat through a wall, and the relation between radiation, 
+convection and conduction as involved in the process. 
+2. The effect of air movement on the film of air in Contact 
+with the surface of the wall, and the difference between the air 
+and surface temperatures. 
+3. Determination of coefficients of transmission, based 
+on inside and outside air temperatures. 
+1. The transmission of heat through a simple or compound 
+wall, such as may be used in practice for the exterior walls of 
+buildings, is a phenomenon of very general and practical in- 
+terest. The calculation of the amount of heat transmitted in 
+this way becomes one of the determining factors in propor- 
+tioning any sort of heating or refrigerating system, and also 
+serves as a ready means of comparing the relative heat insu- 
+lating efficiencies of any form of standard wall construction. 

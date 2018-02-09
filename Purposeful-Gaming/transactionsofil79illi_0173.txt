@@ -1,0 +1,27 @@
+SYMPOSIUM ON COLLOIDS 
+45 
+One very interesting and important property of colloidal 
+solutions can be observed only with the ultramicroscope, an 
+instrument which renders the separate particles visible. Under 
+this instrument the particles are observed to be in motion, the 
+more rapid the smaller they are. This phenomenon is known 
+after its discoverer as the Brownian movement. A study of 
+this motion has led in the last few years to a virtual proof of 
+the molecular theory of matter. A review of the work in this 
+field as carried out by Perran and others will not, of course, 
+be possible here. Briefly, however, the basis of it is as fol- 
+lows : In order to account for the observed prOperties of gases 
+the kinetic theory has postulated that at a given temperature 
+the kinetic energy of all gas molecules is the same. Since the 
+kinetic energy is the product of the mass of the molecule and 
+the square of its velocity, the speed with which a large mole- 
+cule moves must be smaller than that of a small molecule. On 
+the assumption that the colloidal particle is a very large mole- 
+cule, it is found that the directly observed velocity of the par- 
+ticles has exactly the value predicted by the kinetic theory of 
+gases. 
+The optical principle of the ultramicroscope, which has 
+made this and many other investigations on colloids possible, 
+is shown in figure 1. The cell E, which holds the colloidal 
+min 
+Figure 1. Principle of the Ultra Microscope 

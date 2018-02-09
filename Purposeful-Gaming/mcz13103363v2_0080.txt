@@ -1,0 +1,53 @@
+Yellow-billed Cuckoo                                                  
+Black-billed Cuckoo                          
+Downy Woodpecker                                                                 
+Golden-winged Woodpecker           
+Chimney Swallow                              
+Barn Swallow                                      
+White-bellied Swallow                      
+Bank Swallow                                     
+[delete]Purple Martin[/delete]          
+Belted Kingfisher                               
+King Bird                                             
+Phoebe                                               
+Wood Pewee                                     
+Least Pewee                                      
+Wood Thrush                                     
+Wilson's Thrush                                
+Golden-crowned Thrush                 
+Robin                                                  
+Blue Bird                                            
+Black-and-white Creeper               
+Yellow Bird                                        
+Redstart                                             
+Cedar Bird                                         
+Red-eyed Vireo                               
+[delete]White-eyed Vireo[/delete]
+Warbling Vireo 
+Yellow-throated Vireo
+Cat Bird
+House Wren
+White-breasted Nuthatch
+Chickadee
+Purple Finch
+Savannah Sparrow
+Yellow winged Sparrow
+Chipping Sparrow
+Song Sparrow
+Swamp Sparrow
+Grass Finch
+Indigo Bird
+Ground Robin
+Bobolink
+Cow Bunting
+Red-winged Blackbird
+Meadow Lark
+Orchard Oriole
+Golden Robin
+Crow Blackbird
+Blue Jay
+[delete]Turtle Dove[/delete]
+Ruffed Grouse
+Quail
+Clapper Rail
+[delete]Common Rail[/delete]                                        

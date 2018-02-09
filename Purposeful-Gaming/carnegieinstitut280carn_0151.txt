@@ -1,0 +1,45 @@
+TECHNIQUE FOR METABOLISM DURING WORK. 129 
+within the chamber that a marked stimulus to the pulse or respiration 
+would be produced. 
+THE STEP RECORDER. 
+A record of the steps taken during walking was obtained by a small 
+electrical contact device at the rear of the treadmill to which the sub- 
+ject's left foot was attached by a long coil spring. The spring had 
+sufficient tension to operate the contact when the foot was thrown for- 
+ward, but at the same time was so weak that it was not noticeable to 
+the subject as he walked. The electric contact operated a message reg- 
+ister, also a signal magnet placed before the camera which was used in 
+connection with the string galvanometer for the pulse records. By the 
+latter, photographic records showing the steps were secured on the same 
+paper with the electrocardiograms which were taken at the close of the 
+first, sixth, twelfth, and twenty-fourth minutes of walking. A specimen 
+record is shown in figure 16 with the pulse records. 
+There was an occasional chatter of the signal magnet due to a re- 
+bound by the coil spring. This chatter is in most cases evident in the 
+spacing on the records and such irregular movements of the signal 
+magnet are neglected in the counting. From these records is found the 
+number of steps per minute at the time of the observations and the 
+average of these is used as the steps per minute for the period. 
+PULSE-RATE. 
+In order to secure pulse records while the subjects were walking, 
+leads from the string galvanometer in the psychological laboratory were 
+carried to the room where the treadmill was situated and entered the 
+chamber through the hard-rubber plug in the front of the cover (see P, 
+fig. 14). The leads terminated inside the chamber in a receptacle 
+into which the subject plugged the terminals of the body electrodes 
+after he entered the chamber. These electrodes were the same as those 
+used in securing electrocardiograms during short periods of muscular 
+exertion. They are shown in figure 26 and described on page 153. 
+Since there was always a certain amount of electrical leakage from 
+the treadmill motor, as well as static electricity of the leather belt, it 
+was necessary to protect the string of the galvanometer from these 
+stray charges which interfered with the electrocardiograms as well as 
+endangered the safety of the string itself. This was successfully done 
+by grounding the subject by means of the third electrode, G in figure 
+26, worn on the lower chest and connected to an iron water-pipe outside 
+the chamber. This arrangement had previously been found more 
+satisfactory than grounding the treadmill or the string galvanometer 
+and made it possible for the men to walk in ordinary shoes Without 
+further insulation. 
+A short branch line connected by a double-pole double-throw switch, 
+easily accessible to the operator, allowed either the subject walking on 

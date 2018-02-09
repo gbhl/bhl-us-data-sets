@@ -1,0 +1,32 @@
+SYMPOSIUM ON ASTRONOMY 27 
+only will systematic studies of stars which vary in light give 
+us direct information, but indirectly we can draw far reach- 
+ing conclusions about stars which are apparently constant. 
+Of the many other problems in photometry which may be 
+attacked with good prospect Of success may be mentioned the 
+case Of our sun, which, according to Abbot, is a variable star. 
+There can not be the slightest doubt of the variation, for a 
+single sunspot is enough to change the total light, the only 
+question is how much ? However, the changes in the light are 
+probably measures of the general activity of the sun, rather 
+than of local disturbances like spots. In direct measure of 
+the sun's radiation the chief difficulty lies in the proper allow- 
+ance for the absorption of the earth's atmosphere, but this 
+trouble may be eliminated by comparing the reflected solar 
+light from one of the planets with the light of a number Of 
+stars. Probably Saturn is a good Object for this purpose, as 
+there are few markings on its surface, but Uranus would be 
+still better on account Of its slower motion, and the greater 
+number of comparison stars which could be found for it. 
+In the present paper, an attempt has been made to indicate 
+in a general way the work we are doing, and evidently there is 
+considerable variety in it. The production Of a good electric 
+cell, and its proper installation in a photometer is a problem 
+in experimental physics, and any success which has come has 
+been through the efforts of several men of widely different 
+training and interests. In the experiments with selenium I 
+had the collaboration of Dr. F. C. Brown, and now, with photo- 
+electric cells, Professor Jacob Kunz is doing his best to perfect 
+our methods. By combining our knowledge and experience 
+we have been able to carry on researches which would have 
+been hopeless for one man alone. 

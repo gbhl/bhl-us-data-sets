@@ -1,0 +1,48 @@
+82 ILLINOIS ACADEMY OF SCIENCE 
+ing up on going into solution he ascribed to the collisions due to 
+molecular motion in the solution. Fortunately for Clausius, 
+at the same time Williamson was working on the subject of 
+etherification and came to the same conclusion independently. 
+This theory of Clausius dominated chemistry for many years, 
+in fact until Arrhenius came forward with the one which is 
+familiar to you all. This theory may be stated thus : 
+When a substance is dissolved in water and conducts the 
+electric current, it is dissociated into ions more or less com- 
+pletely, depending on the dilution, and that the degree of this 
+dissociation may be calculated from (1) the conductance of 
+the solution, (2) the lowering of the freezing point or raising 
+of the boiling point, and (3) the osmotic pressure. 
+Let us now consider first some of the reasons, in a general 
+way, why this theory is favored, after which we will take up 
+some of the objections, and then consider some of the very 
+recent work. 
+THINGS IN FAVOR OF THE THEORY 
+1. Many aqueous solutions conduct and many non-aqueous do 
+not. 
+2. When a current is passed through a solution of an electrolyte 
+there is an immediate production of discomposition products. 
+3. Many or most electrolytes show too great a lowering of the 
+freezing point, raising of the boiling point, and too great an osmotic 
+pressure. 
+4. All or nearly all strong bases when neutralized by strong 
+acids show the same heat of neutralization. 
+5. The instantaneous interaction of chemicals when electrolytes 
+and the slow or lack of action when they are not. 
+6. Some gases, when dissolving in water, do not obey Henry's 
+Law. 
+7. The hindering of a reaction by adding something that will give 
+like ions. 
+8. Most substances dissociate more as the dilution is increased. 
+9. Faraday's Law. 
+OBJECTIONS TO THE THEORY 
+1. Non-aqueous solutions do conduct. 
+2. In some solutions the conductivity does not increase on dilu- 
+tion. 
+3. In some the dilution makes the conductivity increase, some in- 
+crease then decrease, some decrease, and some decrease then in- 
+crease. 
+4. There are instantaneous reactions in non-aqueous solutions. 
+5. Neutralization of non-aqueous solution does not always give 
+the same heat of reaction. 
+6. The degree of dissociation as calculated by the three different 
+methods do not always agree. 

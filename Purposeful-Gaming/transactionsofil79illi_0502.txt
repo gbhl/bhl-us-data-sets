@@ -1,0 +1,25 @@
+190 ILLINOIS ACADEMY OF SCIENCE 
+ON THE INITIAL CONDITIONS OF THE CORONA 
+DISCHARGE 
+ABSTRACT 
+JACOB KUNz, UNIVERSITY OF ILLINOIS 
+There was first given a description of the numerous phenom- 
+ena which are connected with direct current corona. The 
+difference between positive and negative electricity appears 
+in electrical, optical, mechanical and chemical effects. A new 
+attempt at an explanation of some of the relations disclosed by 
+experiments has been made. Relations between the critical 
+electric force at the surface of the wire, the pressure of the air 
+and the radius of the wire have been obtained. The con- 
+stants in these relations are different for the positive and the 
+negative wire. These constants have been assumed the same 
+for both polarities in the previous theories by Townsend and 
+Davis. Townsend's theory of collision moreover is based on 
+experiments at low pressure, while the formula, relating to 
+pressure, radius and critical force in the corona holds only for 
+high pressures. The principle of conservation of energy has 
+been applied to the ionization pressure and it is predicted that 
+over a certain range the current should be directly propor- 
+tional to the pressure increase. 
+This paper has been published in the Physical Review, Vol. 
+VIII, July, 1916. 

@@ -1,0 +1,22 @@
+[margin]Num[/margin]
+Articles
+[margin]Dol cts[/margin]
+3 Pecks of dandalions 50
+Strawberries
+Boxes
+1        50
+1        30
+1        30
+1        30
+1        30
+1        30
+1        30
+1        30
+1        30
+1        30
+1        30
+1        30
+1        30
+1        30
+[delete]3.9[/delete]
+4.10
