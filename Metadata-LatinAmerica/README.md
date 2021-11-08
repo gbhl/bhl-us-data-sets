@@ -49,7 +49,7 @@ Visualizations - PNG files presenting visuals for metadata statistics, co-occurr
 - Co-occurrence networks: \<Subset acronym\> CON.png
 - Hiearchical clustering: \<Subset acronym\> HC.png
 	
-	When the name includes the indication - Unique, only unique title IDs for the selected subject were considered.
+When the name includes the indication - Unique, only unique title IDs for the selected subject were considered.
 
 ### SUBSETS DESCRIPTION
 
