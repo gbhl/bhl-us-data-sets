@@ -6,7 +6,7 @@ Data employed in this project were downloaded from https://www.biodiversitylibra
 
 ### FILE FORMAT
 
-Each data file is a comma-separated value (CSV) file containing metadata categories for materials in BHL's collection that include one or more subjects related to Latin America in their subject lists. See the following sections in this file for information about the data found in each file.
+Each data file is a Microsoft Excel spreadsheet (.xlsx) containing metadata categories for materials in BHL's collection that include one or more subjects related to Latin America in their subject lists. See the following sections in this file for information about the data found in each file.
 Each row in a data file contains between two and thirteen columns. The first row in each file contains the column names. See the following sections in this file for information about the data found in each column. 
 Each visualization file is a portable network graphics (PNG) file showing the visual of a portion of the analyses performed in this project. See the following sections in this file for information about the nature of and data used for each visualization.
 
@@ -14,22 +14,22 @@ Each visualization file is a portable network graphics (PNG) file showing the vi
 
 All acronyms for subset names are indicated in parentheses in the next section of this file. 
 
-SUB Lists.csv - CSV file containing listed subjects per TitleID for all records (146806) that were part of BHL's collection as of July 1st, 2021.
+SUB Lists.xlsx - XLSX file containing listed subjects per TitleID for all records (146806) that were part of BHL's collection as of July 1st, 2021.
 
-Data files - CSV files belonging to one of the following groups:
-- Metadata subsets - CSV files including full metadata details for the selected materials. The names of these files follow one of these two patterns:
+Data files - XLSX files belonging to one of the following groups:
+- Metadata subsets - XLSX files including full metadata details for the selected materials. The names of these files follow one of these two patterns:
 
-	- \<Subset acronym\>.csv
+	- \<Subset acronym\>.xlsx
 		OR
-	- \<Subset acronym\> - Unique.csv
+	- \<Subset acronym\> - Unique.xlsx
 
 		When the second pattern is used, only unique title IDs for the selected subject are included, i.e. works in volumes, issues, and/or numbers appear as a single record under their shared title ID.
 
-- Subject lists - CSV files including only listed subjects per TitleID for the selected materials. The names of these files follow this pattern:
-	- \<Subset acronym\> - SL.csv
+- Subject lists - XLSX files including only listed subjects per TitleID for the selected materials. The names of these files follow this pattern:
+	- \<Subset acronym\> - SL.xlsx
 
-- Word frequencies - CSV files including only the most frequent words in each subject list for the selected materials. The names of these files follow this pattern:
-	- \<Subset acronym\> - WF.csv
+- Word frequencies - XLSX files including only the most frequent words in each subject list for the selected materials. The names of these files follow this pattern:
+	- \<Subset acronym\> - WF.xlsx
 
 Visualizations - PNG files presenting visuals for metadata statistics, co-occurrence networks, or hierarchical clustering of each subset. Depending of the nature of the visualization, the names of these files follow one of the following patterns:
 
